@@ -163,7 +163,7 @@ TempAndHumidity  data = dhtSensor.getTempAndHumidity();
 3. Hacer la conexion de **DHT11** con la **ESP32** como se muestra en la siguente imagen.
 ![](https://github.com/Cris9901/PRACTICA-8-NODE-RED-CON-DHT22/blob/main/IMAGEN%201.jpg)
 
-4. Cambiando al programa de **Node-RED** primero tendran que colocar el bloque de ```mqqtt in```.
+4. Cambiando al programa de **Node-RED** primero tendran que colocar el bloque de ```mqtt in```.
 ![](https://github.com/Cris9901/PRACTICA-8-NODE-RED-CON-DHT22/blob/main/IMAGEN%205.jpg)
 
 5. Configurar el bloque con el puerto mqtt con el ip ```18.193.219.109``` como se muestra en la imagen.
