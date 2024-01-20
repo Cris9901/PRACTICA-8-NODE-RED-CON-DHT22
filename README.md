@@ -215,7 +215,7 @@ return msg;
 *Chart*
 ![](https://github.com/Cris9901/PRACTICA-8-NODE-RED-CON-DHT22/blob/main/IMAGEN%2016.jpg)
 
-13. Por ultimo en la pestaña de DE *Layout* crearemos otro tabulador llamado **Sensor DHT22**, dentro de el añadiremos dos grupos uno para los indicadores y otro para las graficas; de igual manera colocaremos dos espaciadores de temperatura y humedad, los pondremos segun sea el caso y la especificación.
+13. Por ultimo en la pestaña de de *Layout* crearemos otro tabulador llamado **Sensor DHT22**, dentro de el añadiremos dos grupos uno para los indicadores y otro para las graficas; de igual manera colocaremos dos espaciadores de temperatura y humedad, los pondremos segun sea el caso y la especificación.
 ![](https://github.com/Cris9901/PRACTICA-8-NODE-RED-CON-DHT22/blob/main/IMAGEN%2017.jpg)
 
 
