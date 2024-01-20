@@ -1,6 +1,5 @@
 # PRACTICA-8-NODE-RED-CON-DHT22
-Este repositorio muestra como podemos usar el programa NODE-RED, asi como tambien algunas herramientas y conceptos basicos.
-
+Dentro de este repositorio se muestra la manera de programar una ESP32 con el sensor DHT11 y además, que los datos obtenidos se vean reflejados en el programa Node-RED a través de una conexión WIFI.
 ## Introducción
 ### Descripción
 La ```Esp32``` la utilizamos en un entorno de adquision de datos, lo cual en esta practica ocuparemos un sensor (```DTH11```) para adquirir temperatura y humedad del entorno, tambien utilizaremos el programa ```Node-red``` para trabajar de manera visual y esquematica la programación grafica del flujo de la información, la cual podremos observar los resultados en la interfaz de ```Node-Red```; cabe aclarar que en esta practica se usara un simulador llamado [WOKWI](https://https://wokwi.com/) y un programa llamado [Node-RED](http://localhost:1880/).
