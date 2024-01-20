@@ -170,12 +170,14 @@ TempAndHumidity  data = dhtSensor.getTempAndHumidity();
 ![](https://github.com/Cris9901/PRACTICA-8-NODE-RED-CON-DHT22/blob/main/IMAGEN%206.jpg)
 
 6. Colocar el bloque ```json```. y configurarlo como se muestra en la imagen.
+
 ![](https://github.com/Cris9901/PRACTICA-8-NODE-RED-CON-DHT22/blob/main/IMAGEN%208.jpg)
 
 7. Configurar el bloque con la acción de ```Always convert to JavaScript Object```  como se muestra en la imagen.
 ![](https://github.com/Cris9901/PRACTICA-8-NODE-RED-CON-DHT22/blob/main/IMAGEN%207.jpg)
 
 8. Colocamos dos bloques ```function```.
+
 ![](https://github.com/Cris9901/PRACTICA-8-NODE-RED-CON-DHT22/blob/main/IMAGEN%209.jpg)
 
 9. Los configuramos con el siguiente codigo, uno para cada funcion
@@ -194,6 +196,7 @@ return msg;
 ![](https://github.com/Cris9901/PRACTICA-8-NODE-RED-CON-DHT22/blob/main/IMAGEN%2011.jpg)
 
 10. Colocamos los bloques ```Chart``` y ```Guage``` a cada una de las funciones.
+
 ![](https://github.com/Cris9901/PRACTICA-8-NODE-RED-CON-DHT22/blob/main/IMAGEN%2012.jpg)
 
 11. Los que estan conectados a la funcion de temperatura los configuramos de la siguiente manera.
